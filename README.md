@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**anhtudo97/anhtudo97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![@anhtudo97's Holopin board](https://holopin.io/api/user/board?user=anhtudo97)](https://holopin.io/@anhtudo97)
 
 Here are some ideas to get you started:
 
@@ -13,4 +12,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+

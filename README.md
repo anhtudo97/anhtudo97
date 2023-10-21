@@ -7,7 +7,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on CPL which company exchange crypto platform
 - 🌱 I’m currently learning blockchain
 - 👯 I’m looking to collaborate on Frontend, Backend, Blockchain
-- 🤔 I’m looking for help with 
 - 💬 Ask me about socials, knowledge
 - 📫 How to reach me: anhtudo97@gmail.com
 - 😄 Pronouns: He/him

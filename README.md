@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on CPL which company exchange crypto platform
+- 🔭 I’m currently working on CMC which company outsourcing platform
 - 🌱 I’m currently learning blockchain
 - 👯 I’m looking to collaborate on Frontend, Backend, Blockchain
 - 💬 Ask me about socials, knowledge
